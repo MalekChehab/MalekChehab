@@ -1,7 +1,7 @@
 - 👋 Hi there, I'm @MalekChehab
 - :eyes: I'm interested in Flutter, Dart, Javascript, Firebase and python
-- 🔭 I’m currently working on BookSearch
-- 🌱 I’m currently learning React
-- 🤔 I’m looking for help with React
+- 🔭 I’m currently working on My Shelf
+- 🌱 I’m currently learning Kotlin
+- 🤔 I’m looking for help with Flutter
 - 💬 Ask me about Dart or Flutter
 - 📫 Reach out to me at malek.chehab99@gmail.com
